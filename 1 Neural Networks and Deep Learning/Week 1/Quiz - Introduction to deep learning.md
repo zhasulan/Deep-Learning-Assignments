@@ -52,7 +52,7 @@
 
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
-![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/1%20Neural%20Networks%20and%20Deep%20Learning/Week%201/images/PM.png)
+	![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/1%20Neural%20Networks%20and%20Deep%20Learning/Week%201/images/PM.png)
 
 	- [ ] x-axis is the input to the algorithm y-axis is outputs.
 	- [x] x-axis is the amount of data y-axis (vertical axis) is the performance of the algorithm.
