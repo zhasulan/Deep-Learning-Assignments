@@ -1,4 +1,4 @@
-# **Week 1 Quiz 1 - Introduction to deep learning** #
+# **Week 1 Quiz - Introduction to deep learning** #
 
 ----------
 
@@ -8,7 +8,7 @@
     - [ ] AI runs on computers and is thus powered by electricity, but it is letting computers do things not possible before.
     - [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
 
-2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
+2. Which of these are reasons for Deep Learning recently taking off? (Check the three options that apply.)
 	- [x] We have access to a lot more computational power.
 	- [ ] Neural Networks are a brand new field.
 	- [x] We have access to a lot more data.
