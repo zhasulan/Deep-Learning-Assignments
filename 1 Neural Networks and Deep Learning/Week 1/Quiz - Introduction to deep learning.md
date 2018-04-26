@@ -28,6 +28,9 @@
 
 5. Which one of these plots represents a ReLU activation function?
 
-	- [ ] ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/rDlJVXGkEeeOXQ7jdzu9Bg_ebe829e5a35b0a8d44b8fe85c7b28f9a_figure-1.png?expiry=1524873600000&hmac=1vtjRZj_zvoZYPmTSrv7qKCjRUG-du-7BAs1VTJbRAY)
-	- [ ] ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/fwrRT3GkEee1BBJ2zgI9PA_c3a9e3d21c9e6cad5bb938ba596f94e3_Figure-2.png?expiry=1524873600000&hmac=iIfUTdpQcZhpycdM-w8faT4ngiZesQiKrltVMhxOduM)
-	- [ ] 
+	- [ ] ![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/1%20Neural%20Networks%20and%20Deep%20Learning/Week%201/images/tanh.png)
+	- [ ] ![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/1%20Neural%20Networks%20and%20Deep%20Learning/Week%201/images/sigmoid.png)
+	- [x] ![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/1%20Neural%20Networks%20and%20Deep%20Learning/Week%201/images/relu.png)
+	- [ ] ![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/1%20Neural%20Networks%20and%20Deep%20Learning/Week%201/images/leaky_relu.png)
+
+6. 
