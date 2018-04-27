@@ -22,6 +22,7 @@
 
 4. Suppose your learning algorithm’s cost J, plotted as a function of the number of iterations, looks like this:
 
+	![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%206/images/mini-batch-cost.png)
 
 	- [ ] If you’re using mini-batch gradient descent, this looks acceptable. But if you’re using batch gradient descent, something is wrong.
 	- [ ] Whether you’re using batch gradient descent or mini-batch gradient descent, this looks acceptable.
@@ -52,6 +53,8 @@
 
 7. You use an exponentially weighted average on the London temperature dataset. You use the following to track the temperature: ![](http://latex.codecogs.com/gif.latex?v_%7Bt%7D%3D%5Cbeta%20v_%7Bt-1%7D&plus;%281-%5Cbeta%29%5Ctheta_%7Bt%7D). The red line below was computed using ![](http://latex.codecogs.com/gif.latex?%5Cbeta%3D0.9). What would happen to your red curve as you vary ![](http://latex.codecogs.com/gif.latex?%5Cbeta)? (Check the two that apply)
 
+	![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%206/images/d_temp.png)
+
 	- [ ] Decreasing ![](http://latex.codecogs.com/gif.latex?%5Cbeta) will shift the red line slightly to the right.
 	- [ ] Increasing ![](http://latex.codecogs.com/gif.latex?%5Cbeta) will shift the red line slightly to the right.
 	- [ ] Decreasing ![](http://latex.codecogs.com/gif.latex?%5Cbeta) will create more oscillation within the red line.
@@ -59,6 +62,8 @@
 
 8. Consider this figure:
 	
+	![](https://raw.githubusercontent.com/zhasulan/Deep-Learning-Assignments/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%206/images/f1_GD.png)
+
 	These plots were generated with gradient descent; with gradient descent with momentum (![](http://latex.codecogs.com/gif.latex?%5Cbeta%3D0.5)) and gradient descent with momentum (![](http://latex.codecogs.com/gif.latex?%5Cbeta%3D0.9)). Which curve corresponds to which algorithm?
 
 
